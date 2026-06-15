@@ -1895,7 +1895,9 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
       + _nc.map(({ p, km }) => {
         const nm = escapeHtml((getLocalized(p.name, lang) as string) || p.id);
         const href = poiPathSafe(lang, p);
-        const img = (p as { image?: string }).image;
+        // resolveHeroImage (nem nyers .image): a fallback-indexbol is megtalalja a
+        // kepet, igy a thumbnail szinkronban van a POI sajat hero-kepevel.
+        const img = resolveHeroImage(p);
         const thumb = img
           ? `<img src="${escapeHtml(img)}" alt="${nm}" loading="lazy" width="56" height="56" style="width:56px;height:56px;border-radius:10px;object-fit:cover;flex-shrink:0"/>`
           : `<span style="width:56px;height:56px;border-radius:10px;display:flex;align-items:center;justify-content:center;background:#1a2238;font-size:24px;flex-shrink:0">🏙️</span>`;
@@ -2285,7 +2287,8 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }
   function relatedCard(r: POI): string {
     const rname = escapeHtml(getLocalized(r.name, lang) ?? r.id);
-    const rimg = (r as { image?: string }).image;
+    // resolveHeroImage (nem nyers .image): fallback-indexbol is, szinkron a hero-keppel.
+    const rimg = resolveHeroImage(r);
     const snippet = relatedDescSnippet(r);
     const imgHtml = rimg
       ? `<div class="plz-rcard-img"><img src="${escapeHtml(rimg)}" alt="${escapeHtml(buildAlt(rname, name))}" loading="lazy"/></div>`
