@@ -290,12 +290,20 @@ try {
   if (fs.existsSync(sfp)) SIGHT_FACTS = JSON.parse(fs.readFileSync(sfp, "utf-8"));
 } catch {}
 // Pano-id-aware Street View URL — pano_id mindig a konkret panoramat nyitja.
+// A sidecar erteke lehet "<pano_id>@<heading>" (heading = a pano->cel irany
+// fokban, 0-359), hogy a kamera a hely FELE nezzen (ne a parkolora/utra a
+// hattal). A heading-et a distance-gate-elt re-sweep tolti (user 2026-06-15).
 function svHref(lat: number, lng: number): string {
   const v = SV_OK[svKey(lat, lng)];
   const vp = `viewpoint=${lat.toFixed(6)}%2C${lng.toFixed(6)}`;
-  return typeof v === "string"
-    ? `https://www.google.com/maps/@?api=1&map_action=pano&pano=${v}&${vp}`
-    : `https://www.google.com/maps/@?api=1&map_action=pano&${vp}`;
+  if (typeof v === "string") {
+    const at = v.lastIndexOf("@");
+    const pano = at >= 0 ? v.slice(0, at) : v;
+    const hdg = at >= 0 ? v.slice(at + 1) : "";
+    const h = hdg && /^\d{1,3}(\.\d+)?$/.test(hdg) ? `&heading=${hdg}` : "";
+    return `https://www.google.com/maps/@?api=1&map_action=pano&pano=${pano}&${vp}${h}`;
+  }
+  return `https://www.google.com/maps/@?api=1&map_action=pano&${vp}`;
 }
 // Inline pegman SVG (Street View figura) — orange badge, white figure.
 const SV_PEGMAN_SVG = `<svg viewBox="0 0 24 24" width="15" height="15" fill="none" aria-hidden="true"><circle cx="12" cy="4.4" r="2.5" fill="currentColor"/><path d="M12 7.6c-2 0-3.3 1.2-3.3 3v3.6c0 .5.4 1 1 1h.3l.4 4.9c0 .5.5.9 1 .9h1.2c.5 0 1-.4 1-.9l.4-4.9h.3c.6 0 1-.5 1-1v-3.6c0-1.8-1.3-3-3.3-3z" fill="currentColor"/></svg>`;
