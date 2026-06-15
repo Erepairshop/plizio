@@ -3067,7 +3067,7 @@ ready();})();</script>
   </div>
   ${renderVisitInfo(poi, lang)}
   ${descText ? `<section><p class="poi-lead-paragraph">${escapeHtml(descText)}</p></section>` : ""}
-  ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), _nc[0] ? { name: (getLocalized((_nc[0].p as POI).name as Partial<Record<string, string>>, lang) as string) || (_nc[0].p as POI).id, km: _nc[0].km } : null)}
+  ${renderKeyFacts(poi, lang, countryName, sightsItems.slice(0, 3).map((x) => (typeof x.s.name === "string" ? x.s.name : "")), ((): { name: string; km: number } | null => { const nc = getNearbyCities(poi, 1, 90, 4)[0]; return nc ? { name: (getLocalized(nc.p.name as Partial<Record<string, string>>, lang) as string) || nc.p.id, km: nc.km } : null; })())}
   ${renderClimate(poi, lang)}
   <div id="sec-info">
   ${renderPracticalInfo(poi, lang)}
