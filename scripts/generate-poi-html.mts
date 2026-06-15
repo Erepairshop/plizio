@@ -707,6 +707,28 @@ function buildNearbyGrid(): Map<string, GridEntry[]> {
 }
 
 // Geographically nearest indexable POIs (haversine), deduped by name.
+// Junk numbered-series filter: OSM bulk imports drop dozens of near-identical
+// numbered nodes as "sights" (Neckar-Enz-Stellung Bunker 301/302…, Mirador 5,
+// Quizfrage 4, Mound 60…). Collapse by number-stripped prefix; a prefix with
+// >=4 numbered members is a junk series → drop all its members. (user 2026-06-15)
+function sightSeriesPrefix(name: unknown): string {
+  if (typeof name !== "string") return "";
+  const orig = name.trim().toLowerCase();
+  if (!/\d/.test(orig)) return "";
+  let n = orig.replace(/\s+(bunker|nr\.?|no\.?|abschnitt|werk|position|№|#)?\s*\d{1,4}[a-z]?\s*$/i, "");
+  n = n.replace(/\s+(bunker|werk)\s*$/i, "");
+  n = n.replace(/\s+[ivxlcdm]{1,4}\s*$/i, "");
+  n = n.replace(/\s+/g, " ").trim();
+  return (n && n !== orig) ? n : "";
+}
+function junkSeriesSet(arr: { name?: unknown }[]): Set<string> {
+  const c = new Map<string, number>();
+  for (const x of arr || []) { const p = sightSeriesPrefix(x?.name); if (p) c.set(p, (c.get(p) || 0) + 1); }
+  const s = new Set<string>();
+  for (const [p, n] of c) if (n >= 4) s.add(p);
+  return s;
+}
+
 function getNearbyPois(poi: POI, limit = 8, maxKm = 150): { p: POI; km: number }[] {
   const c0 = coordLatLon(poi.coords);
   if (!c0) return [];
@@ -2481,8 +2503,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Dedup the gallery by sight name (data sometimes repeats the same sight),
   // keeping the original index so cross-lang variant alignment stays correct.
   const _seenSight = new Set<string>();
+  const _junkSeries = junkSeriesSet(sightsArr as { name?: unknown }[]);
   const sightsItems: { s: SightItem; i: number }[] = [];
   sightsArr.forEach((s, i) => {
+    const pre = sightSeriesPrefix(s.name);
+    if (pre && _junkSeries.has(pre)) return; // drop junk numbered-series member
     const k = slugifySight(typeof s.name === "string" ? s.name : "");
     if (k && _seenSight.has(k)) return;
     if (k) _seenSight.add(k);
@@ -2496,8 +2521,15 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const nAligned = !!nearbyObj && ["en", "de", "hu", "ro"].every((l) => {
     const a = (nearbyObj as any)[l]; return !Array.isArray(a) || a.length === nearbyArr.length;
   });
-  const nearbyHtml = nearbyArr.length > 0
-    ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyArr.length})</h2>${nearbyArr.map((s, i) => renderSightCard(s, true, nAligned ? sightNameVariantsAt(nearbyObj, i, s.name as string) : undefined)).join("")}</section>`
+  const _nJunk = junkSeriesSet(nearbyArr as { name?: unknown }[]);
+  const nearbyItems: { s: SightItem; i: number }[] = [];
+  nearbyArr.forEach((s, i) => {
+    const pre = sightSeriesPrefix(s.name);
+    if (pre && _nJunk.has(pre)) return; // drop junk numbered-series member
+    nearbyItems.push({ s, i });
+  });
+  const nearbyHtml = nearbyItems.length > 0
+    ? `<section class="plz-sights plz-sights-nearby"><h2>${I("nearbySights", lang)} (${nearbyItems.length})</h2>${nearbyItems.map(({ s, i }) => renderSightCard(s, true, nAligned ? sightNameVariantsAt(nearbyObj, i, s.name as string) : undefined)).join("")}</section>`
     : "";
 
   // Weather widget HTML + JS (client-side fetch of Open-Meteo)

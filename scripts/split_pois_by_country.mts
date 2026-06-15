@@ -10,6 +10,32 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
+
+// Junk numbered-series filter (mirror of generate-poi-html): drop OSM bulk-import
+// numbered sight series (Neckar-Enz-Stellung Bunker 301…, Mirador 5, Mound 60…).
+function sightSeriesPrefix(name: unknown): string {
+  if (typeof name !== "string") return "";
+  const orig = name.trim().toLowerCase();
+  if (!/\d/.test(orig)) return "";
+  let n = orig.replace(/\s+(bunker|nr\.?|no\.?|abschnitt|werk|position|№|#)?\s*\d{1,4}[a-z]?\s*$/i, "");
+  n = n.replace(/\s+(bunker|werk)\s*$/i, "");
+  n = n.replace(/\s+[ivxlcdm]{1,4}\s*$/i, "");
+  n = n.replace(/\s+/g, " ").trim();
+  return (n && n !== orig) ? n : "";
+}
+function dropJunkSeries(byLang: any): any {
+  if (!byLang || typeof byLang !== "object") return byLang;
+  const out: Record<string, any> = {};
+  for (const [lang, arr] of Object.entries(byLang)) {
+    if (!Array.isArray(arr)) { out[lang] = arr; continue; }
+    const c = new Map<string, number>();
+    for (const x of arr as any[]) { const p = sightSeriesPrefix(x?.name); if (p) c.set(p, (c.get(p) || 0) + 1); }
+    const junk = new Set<string>(); for (const [p, n] of c) if (n >= 4) junk.add(p);
+    out[lang] = junk.size ? (arr as any[]).filter((x) => { const p = sightSeriesPrefix(x?.name); return !(p && junk.has(p)); }) : arr;
+  }
+  return out;
+}
+
 const DATA = path.resolve(__dirname, "..", "lib", "visualLab", "data");
 const OUT = path.resolve(__dirname, "..", "public", "data", "pois");
 
@@ -253,8 +279,8 @@ for (const [cc, arr] of Object.entries(byCountry)) {
   for (const p of arr) {
     if (!p?.id) continue;
     const heavy: Record<string, unknown> = {};
-    if (p.sights) heavy.sights = p.sights;
-    if (p.nearbySights) heavy.nearbySights = p.nearbySights;
+    if (p.sights) heavy.sights = dropJunkSeries(p.sights);
+    if (p.nearbySights) heavy.nearbySights = dropJunkSeries(p.nearbySights);
     if (p.descriptionAdvanced) heavy.descriptionAdvanced = p.descriptionAdvanced;
     if (p.factsAdvanced) heavy.factsAdvanced = p.factsAdvanced;
     if (p.faq) heavy.faq = p.faq;
